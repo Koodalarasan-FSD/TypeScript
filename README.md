@@ -1,2 +1,2 @@
 # TypeScript
-It's a Folder which contains TypeScript Basics
+It's Folder contains TypeScript Basics which i learned and executed it.
